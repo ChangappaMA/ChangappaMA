@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Solidity Bloackchain and Smart Contracts
 <!--
 **ChangappaMA/ChangappaMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Solidity Bloackchain and Smart Contracts
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangappaMA&layout=compact&theme=gotham&langs_count=10&show_icons=true)](https://github.com/ChangappaMA/github-readme-stats)
