@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Solidity Bloackchain and Smart Contracts
+- 🌱 I’m currently learning Solidity Blockchain and Smart Contracts
 <!--
 **ChangappaMA/ChangappaMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
